@@ -11,7 +11,7 @@
 
 # Project Portofolio 
 - [Portofolio projeck web pribad]
-https://github.com/Nemesisstrom/Muhamma_Fackhri.git.io/
+https://github.com/Nemesisstrom/Muhammad_Fackhri.git.io/
  
  ## Kontak
  - Linkedin: https://www.linkedin.com/in/muhammad-fackhri
