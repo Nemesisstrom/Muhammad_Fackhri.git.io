@@ -3,8 +3,10 @@
 # Keahlian 
 - FrontEnd-Backend development
 - Web development
-- Pemograman PHP
-- Pemograman Python 
+- Bahasa Pemograman HTML dan CSS
+- Pemograman PHP dan Laravel
+- Pemograman Python
+- SQL
 - Git dan Github
 
 # Project Portofolio 
