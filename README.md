@@ -28,32 +28,32 @@ Saya adalah mahasiswa **Teknologi Informasi** yang berfokus pada pengembangan ap
 * **Teknologi yang digunakan:** HTML, CSS, JavaScript / Bootstrap (sesuaikan jika memakai framework).
 
    ## 🚀 Featured Projects
-       ### 1. Financial Management Information System
-       A web-based financial management application focused on General Ledger operations.
-       🔗 **Repository:** [View Project] https://github.com/Nemesisstrom/CTC-General-Ledger
-       **Technologies:** Laravel, PHP, MySQL
-       
-       ---
-       
-       ### 2. CRM Supermarket
-       A web-based Customer Relationship Management system.
-       🔗 **Repository:** [View Project] https://github.com/Nemesisstrom/project_crm_supermarket
-       **Technologies:** Laravel, PHP, MySQL
-       
-       ---
-       
-       ### 3. Cocolink System
-       A web-based application for digital information management administration coconut trash
-       🔗 **Repository:** [View Project] https://github.com/Nemesisstrom/Sistem-CoCoLink
-       
-       ---
-       
-       ### 4. Rice and Corn Management System
-       An information system for agricultural data management.
-       🔗 **Repository:** [View Project] https://github.com/Nemesisstrom/Sistem-Panen-Padi-dan-Jagung-Nasional
-       
-
----
+     ### 1. Financial Management Information System
+     A web-based financial management application focused on General Ledger operations.
+    🔗 **Repository:** [View Project] https://github.com/Nemesisstrom/CTC-General-Ledger
+    **Technologies:** Laravel, PHP, MySQL
+         
+    ---
+         
+    ### 2. CRM Supermarket
+    A web-based Customer Relationship Management system.
+    🔗 **Repository:** [View Project] https://github.com/Nemesisstrom/project_crm_supermarket
+    **Technologies:** Laravel, PHP, MySQL
+         
+    ---
+         
+    ### 3. Cocolink System
+    A web-based application for digital information management administration coconut trash
+    🔗 **Repository:** [View Project] https://github.com/Nemesisstrom/Sistem-CoCoLink
+         
+    ---
+         
+    ### 4. Rice and Corn Management System
+    An information system for agricultural data management.
+    🔗 **Repository:** [View Project] https://github.com/Nemesisstrom/Sistem-Panen-Padi-dan-Jagung-Nasional
+         
+  
+  ---
 
 ### 📬 Mari Terhubung!
 Jika Anda tertarik untuk berkolaborasi atau berdiskusi mengenai proyek web dan teknologi, silakan hubungi saya melalui:
